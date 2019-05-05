@@ -15,9 +15,7 @@ There is a button to turn ON the LCD display (you have to press it for 1s) and i
 ## Prototype Layout
 If you want to run sketch in this repository, you can connect components like this.
 
-<p align="center">
-  <img src="https://github.com/GiuseppeLG/Room-DHT11-monitoring/blob/master/prototype_layout.PNG" height="700" title="hover text">
-</p>
+![prototype_layout](https://user-images.githubusercontent.com/14968550/57195431-920f7a00-6f52-11e9-9e8e-ed82d3c28bfc.PNG)
 
 ## Config
 You can change the range of led action simply edit conditions like this and replace the number
